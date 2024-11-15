@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "Recipe1.api.Controllers.PicController",
+    "Method": "DownloadFile",
+    "RelativePath": "api/Pic/download/{fileKey}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileKey",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Recipe1.api.Controllers.PicController",
+    "Method": "UploadFile",
+    "RelativePath": "api/Pic/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Name.API.Controllers.foodController",
+    "Method": "GetAllRecipes",
+    "RelativePath": "api/user",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Name.API.Controllers.foodController",
+    "Method": "AddRecipe",
+    "RelativePath": "api/user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "recipe",
+        "Type": "RecipeManagement.Models.Recipe",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Name.API.Controllers.foodController",
+    "Method": "UpdateRecipe",
+    "RelativePath": "api/user/{recipeName}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "recipeName",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "recipe",
+        "Type": "RecipeManagement.Models.Recipe",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Name.API.Controllers.foodController",
+    "Method": "DeleteRecipe",
+    "RelativePath": "api/user/{recipeName}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "recipeName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

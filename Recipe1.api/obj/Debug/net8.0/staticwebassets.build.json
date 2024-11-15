@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7XZkAiKFI8OCITw5DjCxIHMVObhWSP8TQ2FjYRF8PPc=",
+  "Source": "Recipe1.api",
+  "BasePath": "_content/Recipe1.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
