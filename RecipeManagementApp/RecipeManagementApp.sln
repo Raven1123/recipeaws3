@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeManagementApp", "RecipeManagementApp.csproj", "{D827340A-4469-46A3-8984-94A69827FFC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeManagement.Services", "..\RecipeManagement.Services\RecipeManagement.Services.csproj", "{C1B4C0C7-F68F-4CAA-BCA0-3E1B01B6A968}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeManagement.Data", "..\RecipeManagement.Data\RecipeManagement.Data.csproj", "{6F22F465-0D5D-409D-BC76-2D703182B9B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeManagement.Models", "..\RecipeManagement.Models\RecipeManagement.Models.csproj", "{0AF9CBD1-E8DE-4DB9-83AE-22C090C2AD4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recipe1.api", "..\Recipe1.api\Recipe1.api.csproj", "{658480B4-B920-42D3-AE0A-0B6469CB33F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mailtrap", "..\Mailtrap\Mailtrap.csproj", "{A3285256-DB87-4720-9DC8-DBC861829806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D827340A-4469-46A3-8984-94A69827FFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D827340A-4469-46A3-8984-94A69827FFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D827340A-4469-46A3-8984-94A69827FFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D827340A-4469-46A3-8984-94A69827FFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B4C0C7-F68F-4CAA-BCA0-3E1B01B6A968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B4C0C7-F68F-4CAA-BCA0-3E1B01B6A968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B4C0C7-F68F-4CAA-BCA0-3E1B01B6A968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B4C0C7-F68F-4CAA-BCA0-3E1B01B6A968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F22F465-0D5D-409D-BC76-2D703182B9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F22F465-0D5D-409D-BC76-2D703182B9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F22F465-0D5D-409D-BC76-2D703182B9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F22F465-0D5D-409D-BC76-2D703182B9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF9CBD1-E8DE-4DB9-83AE-22C090C2AD4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF9CBD1-E8DE-4DB9-83AE-22C090C2AD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF9CBD1-E8DE-4DB9-83AE-22C090C2AD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF9CBD1-E8DE-4DB9-83AE-22C090C2AD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658480B4-B920-42D3-AE0A-0B6469CB33F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658480B4-B920-42D3-AE0A-0B6469CB33F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658480B4-B920-42D3-AE0A-0B6469CB33F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658480B4-B920-42D3-AE0A-0B6469CB33F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3285256-DB87-4720-9DC8-DBC861829806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3285256-DB87-4720-9DC8-DBC861829806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3285256-DB87-4720-9DC8-DBC861829806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3285256-DB87-4720-9DC8-DBC861829806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B6D1D12-2CC3-4E3A-B291-09946F92A77B}
+	EndGlobalSection
+EndGlobal

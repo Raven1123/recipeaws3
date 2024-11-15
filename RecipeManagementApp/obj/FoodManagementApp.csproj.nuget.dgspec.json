@@ -1,0 +1,337 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagementApp\\FoodManagementApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Data\\RecipeManagement.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Data\\RecipeManagement.Data.csproj",
+        "projectName": "RecipeManagement.Data",
+        "projectPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Data\\RecipeManagement.Data.csproj",
+        "packagesPath": "C:\\Users\\PUP-LIBRARYPC3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PUP-LIBRARYPC3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\RecipeManagement.Models.csproj": {
+                "projectPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\RecipeManagement.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\FoodManagement.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\FoodManagement.Models.csproj",
+        "projectName": "FoodManagement.Models",
+        "projectPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\FoodManagement.Models.csproj",
+        "packagesPath": "C:\\Users\\PUP-LIBRARYPC3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PUP-LIBRARYPC3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\RecipeManagement.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\RecipeManagement.Models.csproj",
+        "projectName": "RecipeManagement.Models",
+        "projectPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\RecipeManagement.Models.csproj",
+        "packagesPath": "C:\\Users\\PUP-LIBRARYPC3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PUP-LIBRARYPC3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Services\\FoodManagement.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Services\\FoodManagement.Services.csproj",
+        "projectName": "FoodManagement.Services",
+        "projectPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Services\\FoodManagement.Services.csproj",
+        "packagesPath": "C:\\Users\\PUP-LIBRARYPC3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PUP-LIBRARYPC3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Data\\RecipeManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Data\\RecipeManagement.Data.csproj"
+              },
+              "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\FoodManagement.Models.csproj": {
+                "projectPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\FoodManagement.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagementApp\\FoodManagementApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagementApp\\FoodManagementApp.csproj",
+        "projectName": "FoodManagementApp",
+        "projectPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagementApp\\FoodManagementApp.csproj",
+        "packagesPath": "C:\\Users\\PUP-LIBRARYPC3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagementApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PUP-LIBRARYPC3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\FoodManagement.Models.csproj": {
+                "projectPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Models\\FoodManagement.Models.csproj"
+              },
+              "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Services\\FoodManagement.Services.csproj": {
+                "projectPath": "C:\\Users\\PUP-LIBRARYPC3\\source\\repos\\RecipeManagement.Services\\FoodManagement.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
