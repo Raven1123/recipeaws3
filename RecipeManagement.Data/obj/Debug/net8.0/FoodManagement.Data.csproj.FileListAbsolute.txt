@@ -1,0 +1,15 @@
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\bin\Debug\net8.0\FoodManagement.Data.deps.json
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\bin\Debug\net8.0\FoodManagement.Data.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\bin\Debug\net8.0\FoodManagement.Data.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\obj\Debug\net8.0\FoodManagement.Data.csproj.AssemblyReference.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\obj\Debug\net8.0\FoodManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\obj\Debug\net8.0\FoodManagement.Data.AssemblyInfoInputs.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\obj\Debug\net8.0\FoodManagement.Data.AssemblyInfo.cs
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\obj\Debug\net8.0\FoodManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\obj\Debug\net8.0\FoodMana.B07EE51B.Up2Date
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\obj\Debug\net8.0\FoodManagement.Data.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\obj\Debug\net8.0\refint\FoodManagement.Data.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\obj\Debug\net8.0\FoodManagement.Data.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\obj\Debug\net8.0\ref\FoodManagement.Data.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\bin\Debug\net8.0\FoodManagement.Models.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\RecipeManagement.Data\bin\Debug\net8.0\FoodManagement.Models.pdb
